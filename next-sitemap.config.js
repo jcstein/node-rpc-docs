@@ -5,7 +5,7 @@
 module.exports = {
   // !STARTERCONF Change the siteUrl
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  siteUrl: 'https://jcstein.github.io/node-rpc-docs',
+  siteUrl: 'https://node-rpc-docs.vercel.app',
   generateRobotsTxt: true,
   robotsTxtOptions: {
     policies: [{ userAgent: '*', allow: '/' }],

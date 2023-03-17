@@ -8,7 +8,7 @@ const defaultMeta = {
   description:
     'The Celestia Node API is the collection of RPC methods that can be used to interact with the services provided by Celestia Data Availability Nodes.',
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  url: 'https://jcstein.github.io/node-rpc-docs',
+  url: 'https://node-rpc-docs.vercel.app',
   type: 'website',
   robots: 'follow, index',
   /**
